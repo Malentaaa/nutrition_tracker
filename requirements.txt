@@ -1,0 +1,19 @@
+# --- Основные библиотеки ---
+numpy==2.3.3
+pandas==2.3.3
+scipy==1.16.2
+
+# --- Core ADK Framework ---
+google-adk
+
+# --- Google GenAI Models (Vertex / API) ---
+google-genai
+
+# --- HTTP requests for OpenFoodFacts API ---
+requests
+
+# --- Environment variables (.env) support ---
+python-dotenv
+
+# --- Optional: developer utilities ---
+ipykernel
